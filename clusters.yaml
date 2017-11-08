@@ -1,0 +1,5 @@
+- Account: sacred-ember-183922
+  AutoDeploy: true
+  Name: gcpaghtensorflow
+  Provider: google
+  Src: gcpaghtensorflow.yaml
